@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471767533384",
+    "project_id": "denemefirebase2-1d424",
+    "storage_bucket": "denemefirebase2-1d424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471767533384:android:aefb02dc0b4b66d5fdd57d",
+        "android_client_info": {
+          "package_name": "com.example.loginpage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471767533384-rlnouocs43k8o4pksnbulk8mkdeuq53h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLXvisTmyeHjxTZ_GlUG2EEbGXK1DMoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471767533384-rlnouocs43k8o4pksnbulk8mkdeuq53h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
